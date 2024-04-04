@@ -36,4 +36,10 @@ Update Menus: Vendors can add new items, remove sold-out items, or update existi
 Manage Profile: Vendors can also manage their profile information, including contact details and operating hours.
 
 ## Team
-* 
+* [Christian Dela Cruz](https://github.com/cdc21)
+* [John Paul Alonzo](https://github.com/Johnzo1233)
+* [Joshua Sato](https://github.com/joshuanssato)
+* [Joshua Pedersen](https://github.com/jspedersen)
+* [Spencer Wells](https://github.com/susa-s)
+
+## Deployement
