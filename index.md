@@ -1,5 +1,3 @@
-# UHM... What to eat?
-
 ## Table of contents
 * [Overview](#overview)
 * [Features](#features)
