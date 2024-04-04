@@ -51,3 +51,6 @@ Join us as we redefine the campus dining experience, one delicious dish at a tim
 
 ## Deployment
 (Deployment link to digital ocean)
+
+## Milestone 1
+[M1](https://github.com/orgs/uhm-what-to-eat/projects/1)
