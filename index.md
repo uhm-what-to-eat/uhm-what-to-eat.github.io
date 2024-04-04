@@ -4,7 +4,7 @@
 ## Table of contents
 * [Overview](#overview)
 * [Features](#features)
-* [User Guide](#user guide)
+* [User Guide](#user-guide)
 * [Team](#team)
 * [Deployment](#deployment)
 
