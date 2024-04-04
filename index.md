@@ -10,7 +10,7 @@
 ## Overview
 UHM...What to eat? is a fun play on words of the University of Hawaii: Manoa's acronym, UHM, and the age-old question we ask when our stomachs grumble. UHM... What to eat? is a UH Manoa food application designed to address the diverse food choices available on campus at the University of Hawaii at Manoa. The app aims to simplify the process of finding specific menu items across various campus dining locations, including campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and more.
 
-## Features:
+## Features
 Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
 Roles (users, vendors, admin): users can post updated menus  and services, while administrators monitor user behavior and manage categories and other functionalities.
 Categories: feature broad categories for goods and services.
@@ -19,7 +19,7 @@ Alerts: users can set up alerts for specific items they are looking for and will
 Photos: supports upload of photos.
 Complaints: users can report inappropriate content or users.
 
-## User Guide:
+## User Guide
 Getting Started:
 User Registration/Login: Sign up for a new account or log in using your existing credentials.
 Set Preferences: Set your food preferences, including favorite vendors and dietary restrictions, to personalize your experience.
