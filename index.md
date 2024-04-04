@@ -46,6 +46,6 @@ Introducing the Culinary Crusaders of UHM – the team behind the mouthwatering 
 * [Spencer Wells](https://github.com/susa-s)
 * [Evan Rau](https://github.com/EvanRau)
  
-Join us as we redefine the campus dining experience, one delicious dish at a time. UHM... What to eat?: where food meets innovation, and every bite tells a story. Get ready to tantalize your taste buds and indulge in the ultimate dining adventure – download Manoa Munchies today and embark on a flavor-filled voyage unlike any other!
+Join us as we redefine the campus dining experience, one delicious dish at a time. UHM... What to eat?: where food meets innovation, and every bite tells a story. Get ready to tantalize your taste buds and indulge in the ultimate dining adventure and embark on a flavor-filled voyage unlike any other!
 
 ## Deployment
