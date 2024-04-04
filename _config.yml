@@ -2,7 +2,7 @@ title: UHM, what to eat?
 description: Food Choice Options in One Place for the UHM Community.
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 github:
   is_project_page: true
   repository_url: https://github.com/uhm-what-to-eat/uhm-what-to-eat.github.io
