@@ -1,5 +1,4 @@
 # UHM... What to eat?
-[UHM... What to eat? Team Contract](https://docs.google.com/document/d/1LNj9PP-zLuOr3zsc3_ZD5KoFJLNKE22pDF2c1CO2s1I/edit#heading=h.hflfh83g7rog)
 
 ## Table of contents
 * [Overview](#overview)
@@ -9,7 +8,7 @@
 * [Deployment](#deployment)
 
 ## Overview
-UHM... What to eat? is a UH Manoa food application designed to address the diverse food choices available on campus at the University of Hawaii at Manoa. The app aims to simplify the process of finding specific menu items across various campus dining locations, including campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and more.
+UHM...What to eat? is a fun play on words of the University of Hawaii: Manoa's acronym, UHM, and the age-old question we ask when our stomachs grumble. UHM... What to eat? is a UH Manoa food application designed to address the diverse food choices available on campus at the University of Hawaii at Manoa. The app aims to simplify the process of finding specific menu items across various campus dining locations, including campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and more.
 
 ## Features:
 Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
@@ -47,5 +46,7 @@ Introducing the Culinary Crusaders of UHM – the team behind the mouthwatering 
 * [Evan Rau](https://github.com/EvanRau)
  
 Join us as we redefine the campus dining experience, one delicious dish at a time. UHM... What to eat?: where food meets innovation, and every bite tells a story. Get ready to tantalize your taste buds and indulge in the ultimate dining adventure and embark on a flavor-filled voyage unlike any other!
+
+[UHM... What to eat? Team Contract](https://docs.google.com/document/d/1LNj9PP-zLuOr3zsc3_ZD5KoFJLNKE22pDF2c1CO2s1I/edit#heading=h.hflfh83g7rog)
 
 ## Deployment
