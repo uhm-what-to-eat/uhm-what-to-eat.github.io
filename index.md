@@ -41,5 +41,6 @@ Manage Profile: Vendors can also manage their profile information, including con
 * [Joshua Sato](https://github.com/joshuanssato)
 * [Joshua Pedersen](https://github.com/jspedersen)
 * [Spencer Wells](https://github.com/susa-s)
+* [Evan Rau](https://github.com/EvanRau)
 
 ## Deployement
