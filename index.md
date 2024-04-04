@@ -9,7 +9,7 @@ Our project
 * 
 * 
 
-##Features
+## Features
 Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
 Roles (users, admin): users can post updated menus  and services, while administrators monitor user behavior and manage categories and other functionalities.
 Categories: feature broad categories for goods and services.
