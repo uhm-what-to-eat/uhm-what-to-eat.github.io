@@ -2,12 +2,7 @@
 [UHM... What to eat? Team Contract](https://docs.google.com/document/d/1LNj9PP-zLuOr3zsc3_ZD5KoFJLNKE22pDF2c1CO2s1I/edit#heading=h.hflfh83g7rog)
 
 ## Overview
-Our project
-
-## Current Goals/Issues
-* 
-* 
-* 
+UHM... What to eat? is a UH Manoa food application that allows users to see what menu items are available right now and what menu items will be available today at various locations on the UHM Campus.
 
 ## Features:
 Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
