@@ -31,7 +31,7 @@ Update Menus: Vendors can add new items, remove sold-out items, or update existi
 Manage Profile: Vendors can also manage their profile information, including contact details and operating hours.
 
 ## Team
-Introducing the Culinary Crusaders of UHM – the team behind the mouthwatering magic of "What to Eat?"!
+Introducing the Culinary Crusaders of UHM – the team behind the mouthwatering magic of "UHM... What to eat?"!
 * [Christian Dela Cruz](https://github.com/cdc21)
 * [John Paul Alonzo](https://github.com/Johnzo1233)
 * [Joshua Sato](https://github.com/joshuanssato)
@@ -39,5 +39,5 @@ Introducing the Culinary Crusaders of UHM – the team behind the mouthwatering 
 * [Spencer Wells](https://github.com/susa-s)
 * [Evan Rau](https://github.com/EvanRau)
  
-Join us as we redefine the campus dining experience, one delicious dish at a time. Manoa Munchies: where food meets innovation, and every bite tells a story. Get ready to tantalize your taste buds and indulge in the ultimate dining adventure – download Manoa Munchies today and embark on a flavor-filled voyage unlike any other!
+Join us as we redefine the campus dining experience, one delicious dish at a time. UHM... What to eat?: where food meets innovation, and every bite tells a story. Get ready to tantalize your taste buds and indulge in the ultimate dining adventure – download Manoa Munchies today and embark on a flavor-filled voyage unlike any other!
 ## Deployement
