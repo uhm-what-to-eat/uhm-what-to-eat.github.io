@@ -9,7 +9,7 @@ Our project
 * 
 * 
 
-## Features
+## Features:
 Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
 Roles (users, admin): users can post updated menus  and services, while administrators monitor user behavior and manage categories and other functionalities.
 Categories: feature broad categories for goods and services.
@@ -18,6 +18,22 @@ Alerts: users can set up alerts for specific items they are looking for and will
 Photos: supports upload of photos.
 Complaints: users can report inappropriate content or users.
 
+## User Guide:
+Getting Started:
+User Registration/Login: Sign up for a new account or log in using your existing credentials.
+Set Preferences: Set your food preferences, including favorite vendors and dietary restrictions, to personalize your experience.
+
+Using the App:
+Explore Menus: Browse through menus from various campus dining locations, organized by vendor and menu item type.
+Search and Filter: Use the search and filter functionality to quickly find specific menu items or vendors.
+View Availability: Check the availability of menu items in real-time and see when your favorite dishes are being served.
+Set Notifications: Enable notifications to receive alerts when your favorite vendors are serving your preferred menu items.
+Manage Preferences: Update your food preferences at any time to reflect your changing tastes and dietary needs.
+
+Vendor Features:
+Login: Vendors can log in to the app to update their menu offerings for the day.
+Update Menus: Vendors can add new items, remove sold-out items, or update existing menu items as needed.
+Manage Profile: Vendors can also manage their profile information, including contact details and operating hours.
 
 ## Team
 * 
