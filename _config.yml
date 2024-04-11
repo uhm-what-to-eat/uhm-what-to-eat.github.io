@@ -5,6 +5,6 @@ show_downloads: false
 theme: jekyll-theme-slate
 github:
   is_project_page: true
-  repository_url: https://github.com/uhm-what-to-eat/uhm-what-to-eat.github.io
+  repository_url: https://github.com/orgs/uhm-what-to-eat/repositories
 gems:
   - jekyll-mentions
