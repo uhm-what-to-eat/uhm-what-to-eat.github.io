@@ -54,3 +54,6 @@ Join us as we redefine the campus dining experience, one delicious dish at a tim
 
 ## Milestone 1
 [M1](https://github.com/orgs/uhm-what-to-eat/projects/1)
+
+## Milestone2
+[M2](https://github.com/orgs/uhm-what-to-eat/projects/2)
