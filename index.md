@@ -111,4 +111,18 @@ On the admin side, the places to eat page becomes a hub to manage food vendor ca
 
 ### Food Vendor Page
 
+## Developer Guide
+* Install Meteor and  download GitHub Desktop if you have not already
+* Go into the [uhm-what-to-eat/source](https://github.com/uhm-what-to-eat/source-code) github repository and click the green "Code" button and select "Open With GitHub Desktop"
+* Once in GitHub Desktop, select "Clone", so our source code will be cloned to your local device
+* cd into the uhm-what-to-eat/source directory and install libraries by invoking:
+```
+$ meteor npm install
+```
+* Once libraries are installed, you are then able to run the application by invoking:
+```
+$ meteor npm run start
+```
+* Once completed, click on the link prompted or navigate your way to http://localhost:3000 
+
 
