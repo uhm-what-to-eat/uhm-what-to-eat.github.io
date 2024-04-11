@@ -15,19 +15,17 @@
 UHM...What to eat? is a fun play on words of the University of Hawaii: Manoa's acronym, UHM, and the age-old question we ask when our stomachs grumble. UHM... What to eat? is a UH Manoa food application designed to address the diverse food choices available on campus at the University of Hawaii at Manoa. The app aims to simplify the process of finding specific menu items across various campus dining locations, including campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and more.
 
 ## Features
-Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
+Users, who can login to establish preferences for their food choices; 
+
+Vendors, who can login to specify their choices of the day or otherwise modify their profile data;
+
+Admins, who also can login to define users as having the vendor role and otherwise administer the system.
 
 Roles (users, vendors, admin): users can post updated menus  and services, while administrators monitor user behavior and manage categories and other functionalities.
 
 Categories: feature broad categories for goods and services.
 
-Notifications: users can opt to receive information via text message.
-
-Alerts: users can set up alerts for specific items they are looking for and will be automatically notified when such items are listed for sale.
-
 Photos: supports upload of photos.
-
-Complaints: users can report inappropriate content or users.
 
 ## User Guide
 Getting Started:
@@ -41,8 +39,6 @@ Explore Menus: Browse through menus from various campus dining locations, organi
 Search and Filter: Use the search and filter functionality to quickly find specific menu items or vendors.
 
 View Availability: Check the availability of menu items in real-time and see when your favorite dishes are being served.
-
-Set Notifications: Enable notifications to receive alerts when your favorite vendors are serving your preferred menu items.
 
 Manage Preferences: Update your food preferences at any time to reflect your changing tastes and dietary needs.
 
