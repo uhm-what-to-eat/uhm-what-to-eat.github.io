@@ -5,35 +5,52 @@
 * [Features](#features)
 * [User Guide](#user-guide)
 * [Team](#team)
-* [Deployment](#deployment)
+* [Deployment](#deployment-)
+* [M1](#milestone-1)
+* [M2](#milestone2)
+* [Walkthrough](#walkthrough)
 
 ## Overview
 UHM...What to eat? is a fun play on words of the University of Hawaii: Manoa's acronym, UHM, and the age-old question we ask when our stomachs grumble. UHM... What to eat? is a UH Manoa food application designed to address the diverse food choices available on campus at the University of Hawaii at Manoa. The app aims to simplify the process of finding specific menu items across various campus dining locations, including campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and more.
 
 ## Features
 Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
+
 Roles (users, vendors, admin): users can post updated menus  and services, while administrators monitor user behavior and manage categories and other functionalities.
+
 Categories: feature broad categories for goods and services.
+
 Notifications: users can opt to receive information via text message.
+
 Alerts: users can set up alerts for specific items they are looking for and will be automatically notified when such items are listed for sale.
+
 Photos: supports upload of photos.
+
 Complaints: users can report inappropriate content or users.
 
 ## User Guide
 Getting Started:
 User Registration/Login: Sign up for a new account or log in using your existing credentials.
+
 Set Preferences: Set your food preferences, including favorite vendors and dietary restrictions, to personalize your experience.
 
 Using the App:
 Explore Menus: Browse through menus from various campus dining locations, organized by vendor and menu item type.
+
 Search and Filter: Use the search and filter functionality to quickly find specific menu items or vendors.
+
 View Availability: Check the availability of menu items in real-time and see when your favorite dishes are being served.
+
 Set Notifications: Enable notifications to receive alerts when your favorite vendors are serving your preferred menu items.
+
 Manage Preferences: Update your food preferences at any time to reflect your changing tastes and dietary needs.
 
-Vendor Features:
+### Vendor Features:
+
 Login: Vendors can log in to the app to update their menu offerings for the day.
+
 Update Menus: Vendors can add new items, remove sold-out items, or update existing menu items as needed.
+
 Manage Profile: Vendors can also manage their profile information, including contact details and operating hours.
 
 ## Team
@@ -57,3 +74,41 @@ Join us as we redefine the campus dining experience, one delicious dish at a tim
 
 ## Milestone2
 [M2](https://github.com/orgs/uhm-what-to-eat/projects/2)
+
+## Walkthrough
+
+A quick run through of UHM...What to eat?'s user interface. 
+
+### Landing Page
+The first thing a user or vendor sees is our landing page and quickly explains what our app is about and how to sign up/log in.
+<img src="public/images/landing-page.png" alt="landing page">
+
+### User Sign-up Page
+After clicking the sign up link on the landing page or clicking on the sign up button through the log in dropdown menu, a user may sign-up for UHM...What to eat? if they do not already have an account.
+<img src="public/images/user-registration-page.png" alt="user sign up page">
+
+### Vendor Sign-up Page
+If they are a vendor and want to sell on campus, vendors may click the vendor link on the landing page. The vendor sign-up page allows vendors to specify where their establishment is on campus, store hours, and an image. 
+<img src="public/images/vendor-registration-page.png" alt="user sign up page">
+
+### Log-in Page
+If one already has an account, whether user or vendor, they may click on the log-in link or the log-in button to redirect them to input their information and access their account. 
+<img src="public/images/login-page.png" alt="user sign up page">
+
+### User Landing Page
+
+### Vendor Landing Page
+
+### Admin Landing Page
+
+### Places To Eat Page 
+If users want to see all the available options of where to eat, they may see all available establishments based on different food vendor locations on campus.
+<img src="public/images/places-to-eat-page.png" alt="user sign up page">
+
+### Admin Places To Eat Page
+On the admin side, the places to eat page becomes a hub to manage food vendor cards on the places to eat page. Admin is able to add or remove food vendor cards. 
+<img src="public/images/admin-places-to-eat.png" alt="user sign up page">
+
+### Food Vendor Page
+
+
