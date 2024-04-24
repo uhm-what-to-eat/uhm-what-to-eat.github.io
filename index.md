@@ -8,6 +8,7 @@
 * [Deployment](#deployment-)
 * [M1](#milestone-1)
 * [M2](#milestone-2)
+* [M3](#milestone-3)
 * [Walkthrough](#walkthrough)
 * [Developer Guide](#developer-guide)
 
