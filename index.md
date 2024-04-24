@@ -94,7 +94,7 @@ If one already has an account, whether user or vendor, they may click on the log
 <img src="public/images/login-page.png" alt="user sign up page">
 
 ### User Landing Page
-Logging into the User Account, the user is able to see all the food vendor cards on the places to eat page and manage their preferences.
+Logging into the User Account, the user is able to see all the food vendor cards on the places to eat page and manage their preferences. Each food vendor card is randommly chosen each time a user logs-in, so its a fun, foody supsrise everytime they log-in. Each food vendor card on the landing page is clickable for easy access to food vendor pages. 
 <img src="public/images/n-login-landing-page.png" alt="user sign up page">
 
 ### Vendor Landing Page
