@@ -98,6 +98,8 @@ Logging into the User Account, the user is able to see all the food vendor cards
 <img src="public/images/n-login-landing-page.png" alt="user sign up page">
 
 ### Vendor Landing Page
+Logging into the Vendor Account, the vendor is able to see all food vendor(s) they own and and are able to manage and edit them.
+<img src="public/images/n-subway-page.png" alt="user sign up page">
 
 ### Admin Landing Page
 Logging into the Admin Account, the admin is able to see all the users and vendors that are registered on the app. Admin is able to see all the food vendor cards on the places to eat page and manage them.
