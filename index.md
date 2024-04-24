@@ -5,7 +5,7 @@
 * [Features](#features)
 * [User Guide](#user-guide)
 * [Team](#team)
-* [Deployment](#deployment-)
+* [Deployment](#deployment)
 * [M1](#milestone-1)
 * [M2](#milestone-2)
 * [M3](#milestone-3)
