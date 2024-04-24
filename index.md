@@ -72,13 +72,14 @@ Join us as we redefine the campus dining experience, one delicious dish at a tim
 ## Milestone 2
 [M2](https://github.com/orgs/uhm-what-to-eat/projects/2)
 
+## Milestone 3
+[M3](https://github.com/orgs/uhm-what-to-eat/projects/5)
 ## Walkthrough
-
 A quick run through of UHM...What to eat?'s user interface. 
 
 ### Landing Page
 The first thing a user or vendor sees is our landing page and quickly explains what our app is about and how to sign up/log in.
-<img src="public/images/landing-page.png" alt="landing page">
+<img src="public/images/updated-landing-page.png" alt="landing page">
 
 ### User Sign-up Page
 After clicking the sign up link on the landing page or clicking on the sign up button through the log in dropdown menu, a user may sign-up for UHM...What to eat? if they do not already have an account.
@@ -86,17 +87,21 @@ After clicking the sign up link on the landing page or clicking on the sign up b
 
 ### Vendor Sign-up Page
 If they are a vendor and want to sell on campus, vendors may click the vendor link on the landing page. The vendor sign-up page allows vendors to specify where their establishment is on campus, store hours, and an image. 
-<img src="public/images/vendor-registration-page.png" alt="user sign up page">
+<img src="public/images/n-vendor-page.png" alt="user sign up page">
 
 ### Log-in Page
 If one already has an account, whether user or vendor, they may click on the log-in link or the log-in button to redirect them to input their information and access their account. 
 <img src="public/images/login-page.png" alt="user sign up page">
 
 ### User Landing Page
+Logging into the User Account, the user is able to see all the food vendor cards on the places to eat page and manage their preferences.
+<img src="public/images/n-login-landing-page.png" alt="user sign up page">
 
 ### Vendor Landing Page
 
 ### Admin Landing Page
+Logging into the Admin Account, the admin is able to see all the users and vendors that are registered on the app. Admin is able to see all the food vendor cards on the places to eat page and manage them.
+<img src="public/images/nw-admin-page.png" alt="user sign up page">
 
 ### Places To Eat Page 
 If users want to see all the available options of where to eat, they may see all available establishments based on different food vendor locations on campus.
@@ -104,9 +109,11 @@ If users want to see all the available options of where to eat, they may see all
 
 ### Admin Places To Eat Page
 On the admin side, the places to eat page becomes a hub to manage food vendor cards on the places to eat page. Admin is able to add or remove food vendor cards. 
-<img src="public/images/admin-places-to-eat.png" alt="user sign up page">
+<img src="public/images/edit-vendors.png" alt="user sign up page">
 
 ### Food Vendor Page
+Here's an example of Subway's food vendor page. Users are able to see the menu items that are available at Subway and the hours of operation.
+<img src="public/images/subway-page" alt="user sign up page">
 
 ## Developer Guide
 * Install Meteor and  download GitHub Desktop if you have not already
