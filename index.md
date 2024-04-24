@@ -74,7 +74,7 @@ Join us as we redefine the campus dining experience, one delicious dish at a tim
 [M2](https://github.com/orgs/uhm-what-to-eat/projects/2)
 
 ## Milestone 3
-[M3](https://github.com/orgs/uhm-what-to-eat/projects/5)
+[M3](https://github.com/orgs/uhm-what-to-eat/projects/6)
 ## Walkthrough
 A quick run through of UHM...What to eat?'s user interface. 
 
