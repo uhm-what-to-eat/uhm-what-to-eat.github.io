@@ -113,7 +113,7 @@ On the admin side, the places to eat page becomes a hub to manage food vendor ca
 
 ### Food Vendor Page
 Here's an example of Subway's food vendor page. Users are able to see the menu items that are available at Subway and the hours of operation.
-<img src="public/images/subway-page" alt="user sign up page">
+<img src="public/images/n-subway-page.png" alt="user sign up page">
 
 ## Developer Guide
 * Install Meteor and  download GitHub Desktop if you have not already
