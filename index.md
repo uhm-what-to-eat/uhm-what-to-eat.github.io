@@ -17,15 +17,14 @@
 UHM...What to eat? is a fun play on words of the University of Hawaii: Manoa's acronym, UHM, and the age-old question we ask when our stomachs grumble. UHM... What to eat? is a UH Manoa food application designed to address the diverse food choices available on campus at the University of Hawaii at Manoa. The app aims to simplify the process of finding specific menu items across various campus dining locations, including campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and more.
 
 ## Features
-Users, who can login to establish preferences for their food choices; 
+Roles (users, vendors, admin):
+Users, who can login to see all the food vendors on the UH Manoa campus. They can view vendors based on location and can also search for vendors based on the category of food. Users can also favorite vendors of their choosing; 
 
-Vendors, who can login to specify their choices of the day or otherwise modify their profile data;
+Vendors, who can sign up or login to create/edit their vendor information. They can edit their store name, location, hours, vendor image, menu image, recommended items;
 
-Admins, who also can login to define users as having the vendor role and otherwise administer the system.
+Admins, who also can login to administer the system. They have edit access to all vendors and can see all accounts created.
 
-Roles (users, vendors, admin): users can post updated menus  and services, while administrators monitor user behavior and manage categories and other functionalities.
-
-Categories: feature broad categories for goods and services.
+Categories: feature broad categories for vendors based on what items they sale.
 
 Photos: supports upload of photos.
 
@@ -33,7 +32,7 @@ Photos: supports upload of photos.
 Getting Started:
 User Registration/Login: Sign up for a new account or log in using your existing credentials.
 
-Set Preferences: Set your food preferences, including favorite vendors and dietary restrictions, to personalize your experience.
+Explore vendors at different locations on the Manoa campus. Favorite Vendors to show only the vendors you want to see. Search for specific vendors based on category tags.
 
 Using the App:
 Explore Menus: Browse through menus from various campus dining locations, organized by vendor and menu item type.
@@ -42,7 +41,7 @@ Search and Filter: Use the search and filter functionality to quickly find speci
 
 View Availability: Check the availability of menu items in real-time and see when your favorite dishes are being served.
 
-Manage Preferences: Update your food preferences at any time to reflect your changing tastes and dietary needs.
+Manage favorites: Update your food favorites at any time to reflect your changing tastes and dietary needs.
 
 ### Vendor Features:
 
