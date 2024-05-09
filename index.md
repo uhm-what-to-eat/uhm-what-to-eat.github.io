@@ -4,6 +4,7 @@
 * [Overview](#overview)
 * [Features](#features)
 * [User Guide](#user-guide)
+* [Community Feedback](#feedback)
 * [Team](#team)
 * [Deployment](#deployment)
 * [M1](#milestone-1)
@@ -50,6 +51,22 @@ Login: Vendors can log in to the app to update their menu offerings for the day.
 Update Menus: Vendors can add new items, remove sold-out items, or update existing menu items as needed.
 
 Manage Profile: Vendors can also manage their profile information, including contact details and operating hours.
+
+## Community Feedback
+Person 1: 
+-The search categories page could be prettier. All the categories are just in one line. Could maybe have them spaced out a bit more in different coulumns.
+-Just an opinion but the Places to Eat page should default to showing all the vendors, or at least some of them rather than just being blank until a location is selected.
+-Maybe combine the search and Places to Eat page.
+-Like the rainbow colored font. 
+-Looks pretty good overall and is honestly very usable. Could maybe change some of the fonts to make it look a little prettier instead of being one font.
+
+Person 2:
+
+Person 3:
+
+Person 4: 
+
+Person 5:
 
 ## Team
 Introducing the Culinary Crusaders of UHM – the team behind the mouthwatering magic of "UHM... What to eat?"!
