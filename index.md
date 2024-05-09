@@ -93,6 +93,12 @@ Person 3:
 
 Person 4: 
 
+- Website is good cause we have places to eat split into locations and the search bar is there too in case they a looking for a specific place.
+  
+- The search filters are good, but would recommend a map for those who don't know the locations around manoa.
+  
+- "It's good cause it's simple."
+
 Person 5:
 
 ## Team
