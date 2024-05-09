@@ -132,6 +132,10 @@ Logging into the Admin Account, the admin is able to see all the users and vendo
 If users want to see all the available options of where to eat, they may see all available establishments based on different food vendor locations on campus.
 <img src="public/images/places-to-eat-page.png" alt="user sign up page">
 
+### Favorites Page
+Users are also able to select their favorite restaurants from the list that will be stored in a separate webpage for their convenience.
+<img src="public/images/favorites.png" alt="favorites page">
+
 ### Admin Places To Eat Page
 On the admin side, the places to eat page becomes a hub to manage food vendor cards on the places to eat page. Admin is able to add or remove food vendor cards. 
 <img src="public/images/edit-vendors.png" alt="user sign up page">
