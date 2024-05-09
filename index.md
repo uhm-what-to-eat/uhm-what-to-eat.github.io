@@ -158,7 +158,6 @@ Here's an example of Panda Expresses's food vendor page. Users are able to see t
 
 ### Admin/Vendor Menu Page
 Vendors are able to manage their Recommended Items list on the menu page. They can edit existing items, add new ones, and remove old ones. Admins are able to manage the recommended items for all vendors.
-<img src="public/images/MenuItem-EditAddRemove.jpg">
 
 ## Developer Guide
 * Install Meteor and  download GitHub Desktop if you have not already
