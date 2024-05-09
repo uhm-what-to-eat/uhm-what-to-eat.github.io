@@ -169,12 +169,16 @@ On the admin side, the places to eat page becomes a hub to manage food vendor ca
 <img src="public/images/edit-vendors.png" alt="user sign up page">
 
 ### Food Vendor Page
-Here's an example of Panda Expresses's food vendor page. Users are able to see the menu items that are available at Panda Express and the hours of operation.
-<img src="public/images/vendor_page.png" alt="vendor page">
+Users are able to see the menu items and uploaded menu image that are available at a vendor and the hours of operation.
+<img src="public/images/menu-page.jpg" alt="vendor page">
 
 ### Admin/Vendor Menu Page
 Vendors are able to manage their Recommended Items list on the menu page. They can edit existing items, add new ones, and remove old ones. Admins are able to manage the recommended items for all vendors.
 <img src="public/images/menu-editaddremove.jpg" alt="vendor page">
+
+### Sign Out Page
+Safe Travels and Happy Eating!
+<img src="public/images/sign-out-page.jpg" alt="sign out page">
 
 ## Developer Guide
 * Install Meteor and  download GitHub Desktop if you have not already
