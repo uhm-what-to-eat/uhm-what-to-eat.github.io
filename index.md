@@ -101,6 +101,14 @@ Person 4:
 
 Person 5:
 
+-I really like the top and bottom borders, but I think the bottom once is a bit too pronounced. I feel like the footer of the page should be smaller and not as noticable unless you're looking for it.
+
+-I like the main font that you have in the center of the screen, but I think the "UHM... What To Eat?" shoul be a different more stylized font. I sort of think it should match the font used in the logo but that's just my opinion.
+
+-I think the placing of the title and login should be a bit more to the edge of the screen. I don't know why but it feels like those things are a little too close to the center, it almost makes the screen feel like it's choking.
+
+-I like the clipart of the different foods in the background, but maybe it would be better to have some clip art of foods that could be considered more local. Like instead of pizza and sandwiches we can get musubi or little takoyaki balls, or even poke. Something like that.
+
 ## Team
 Introducing the Culinary Crusaders of UHM – the team behind the mouthwatering magic of "UHM... What to eat?"!
 * [Christian Dela Cruz](https://github.com/cdc21)
