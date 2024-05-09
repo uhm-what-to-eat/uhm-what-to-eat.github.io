@@ -4,7 +4,7 @@
 * [Overview](#overview)
 * [Features](#features)
 * [User Guide](#user-guide)
-* [Community Feedback](#feedback)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 * [Deployment](#deployment)
 * [M1](#milestone-1)
