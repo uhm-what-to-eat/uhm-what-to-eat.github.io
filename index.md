@@ -55,9 +55,13 @@ Manage Profile: Vendors can also manage their profile information, including con
 ## Community Feedback
 Person 1: 
 -The search categories page could be prettier. All the categories are just in one line. Could maybe have them spaced out a bit more in different coulumns.
+
 -Just an opinion but the Places to Eat page should default to showing all the vendors, or at least some of them rather than just being blank until a location is selected.
+
 -Maybe combine the search and Places to Eat page.
+
 -Like the rainbow colored font. 
+
 -Looks pretty good overall and is honestly very usable. Could maybe change some of the fonts to make it look a little prettier instead of being one font.
 
 Person 2:
