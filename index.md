@@ -152,6 +152,9 @@ $ meteor npm install
 ```
 $ meteor npm run start
 ```
-* Once completed, click on the link prompted or navigate your way to http://localhost:3000 
+* Once completed, click on the link prompted or navigate your way to http://localhost:3000
+
+![ci-badge](https://github.com/uhm-what-to-eat/source-code/workflows/uhm-what-to-eat/badge.svg)
+
 
 
