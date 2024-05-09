@@ -102,7 +102,7 @@ A quick run through of UHM...What to eat?'s user interface.
 
 ### Landing Page
 The first thing a user or vendor sees is our landing page and quickly explains what our app is about and how to sign up/log in.
-<img src="public/images/updated-landing-page.png" alt="landing page">
+<img src="public/images/n-landing-page.png" alt="landing page">
 
 ### User Sign-up Page
 After clicking the sign up link on the landing page or clicking on the sign up button through the log in dropdown menu, a user may sign-up for UHM...What to eat? if they do not already have an account.
@@ -110,7 +110,7 @@ After clicking the sign up link on the landing page or clicking on the sign up b
 
 ### Vendor Sign-up Page
 If they are a vendor and want to sell on campus, vendors may click the vendor link on the landing page. The vendor sign-up page allows vendors to specify where their establishment is on campus, store hours, and an image. 
-<img src="public/images/n-vendor-page.png" alt="user sign up page">
+<img src="public/images/vendor-registration-page.png" alt="user sign up page">
 
 ### Log-in Page
 If one already has an account, whether user or vendor, they may click on the log-in link or the log-in button to redirect them to input their information and access their account. 
