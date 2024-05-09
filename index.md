@@ -93,11 +93,11 @@ Person 3:
 
 Person 4: 
 
-- Website is good cause we have places to eat split into locations and the search bar is there too in case they a looking for a specific place.
+- The website is good cause we have places to eat split into locations and the search bar is there too in case they a looking for a specific place.
   
-- The search filters are good, but would recommend a map for those who don't know the locations around manoa.
+- The search filters are good, but would recommend a map for those who don't know the locations around Manoa. "It's good 'cause it's simple."
   
-- "It's good cause it's simple."
+- To sum up, "It is good overall, it is easy to navigate. For the places to eat page with all the categories, it might be better to combine the places to eat with the search. When clicking on each location in the Places to eat tab, have a search function inside each location, rather than separate the two. This is to make the search work within those specific locations. I think this may be better to have this as it can help with specifics of location."
 
 Person 5:
 
