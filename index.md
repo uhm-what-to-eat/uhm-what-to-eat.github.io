@@ -156,6 +156,10 @@ On the admin side, the places to eat page becomes a hub to manage food vendor ca
 Here's an example of Panda Expresses's food vendor page. Users are able to see the menu items that are available at Panda Express and the hours of operation.
 <img src="public/images/vendor_page.png" alt="vendor page">
 
+### Admin/Vendor Menu Page
+Vendors are able to manage their Recommended Items list on the menu page. They can edit existing items, add new ones, and remove old ones.
+<img src="public/images/MenuItem-EditAddRemove.jpg">
+
 ## Developer Guide
 * Install Meteor and  download GitHub Desktop if you have not already
 * Go into the [uhm-what-to-eat/source](https://github.com/uhm-what-to-eat/source-code) github repository and click the green "Code" button and select "Open With GitHub Desktop"
