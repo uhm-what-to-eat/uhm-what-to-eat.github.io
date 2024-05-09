@@ -54,27 +54,27 @@ Manage Profile: Vendors can also manage their profile information, including con
 ## Community Feedback
 Person 1: 
 
--The search categories page could be prettier. All the categories are just in one line. Could maybe have them spaced out a bit more in different coulumns.
+- The search categories page could be prettier. All the categories are just in one line. Could maybe have them spaced out a bit more in different coulumns.
 
--Just an opinion but the Places to Eat page should default to showing all the vendors, or at least some of them rather than just being blank until a location is selected.
+- Just an opinion but the Places to Eat page should default to showing all the vendors, or at least some of them rather than just being blank until a location is selected.
 
--Maybe combine the search and Places to Eat page.
+- Maybe combine the search and Places to Eat page.
 
--Like the rainbow colored font. 
+- Like the rainbow colored font. 
 
--Looks pretty good overall and is honestly very usable. Could maybe change some of the fonts to make it look a little prettier instead of being one font.
+- Looks pretty good overall and is honestly very usable. Could maybe change some of the fonts to make it look a little prettier instead of being one font.
 
 Person 2:
 
--When using the search bar the categorical was to busy and should've been neater
+- When using the search bar the categorical was to busy and should've been neater
 I think adding a drop down option would've been a better choice
 
--The Fonts is kinda confusing. There were so many different fonts, which was something 
+- The Fonts is kinda confusing. There were so many different fonts, which was something 
 off about the website. 
 
 - The rainbow colored font confused me but added some little different which is good. 
 
--The main menu was to small. The top back and the back part was smashing the middle 
+- The main menu was to small. The top back and the back part was smashing the middle 
 menu. 
 
 - The recommendation above the menu was a good touch. Having this makes to easier as a customer finding food that i want. 
