@@ -66,6 +66,19 @@ Person 1:
 
 Person 2:
 
+-When using the search bar the categorical was to busy and should've been neater
+I think adding a drop down option would've been a better choice
+
+-The Fonts is kinda confusing. There were so many different fonts, which was something 
+off about the website. 
+
+- The rainbow colored font confused me but added some little different which is good. 
+
+-The main menu was to small. The top back and the back part was smashing the middle 
+menu. 
+
+- The recommendation above the menu was a good touch. Having this makes to easier as a customer finding food that i want. 
+
 Person 3:
 
 Person 4: 
