@@ -81,6 +81,16 @@ menu.
 
 Person 3:
 
+- It looks good, almost professional looking.
+
+- Easy to click on things and to use.
+
+- Accommodating.
+
+- Nice Design!
+
+- Easy to access. 
+
 Person 4: 
 
 Person 5:
