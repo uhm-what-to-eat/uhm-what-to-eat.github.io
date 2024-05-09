@@ -125,6 +125,8 @@ Join us as we redefine the campus dining experience, one delicious dish at a tim
 ## Deployment 
 [Digital Ocean Deployment](https://uhmwhattoeat.online/)
 
+![ci-badge](https://github.com/uhm-what-to-eat/source-code/workflows/uhm-what-to-eat/badge.svg)
+
 ## Milestone 1
 [M1](https://github.com/orgs/uhm-what-to-eat/projects/1)
 
@@ -177,7 +179,7 @@ On the admin side, the places to eat page becomes a hub to manage food vendor ca
 <img src="public/images/edit-vendors.png" alt="user sign up page">
 
 ### Food Vendor Page
-Users are able to see the menu items and uploaded menu image that are available at a vendor and the hours of operation.
+Users are able to see the recommended menu items and uploaded menu image that are available at a vendor.
 <img src="public/images/menu-page.jpg" alt="vendor page">
 
 ### Admin/Vendor Menu Page
@@ -201,8 +203,6 @@ $ meteor npm install
 $ meteor npm run start
 ```
 * Once completed, click on the link prompted or navigate your way to http://localhost:3000
-
-![ci-badge](https://github.com/uhm-what-to-eat/source-code/workflows/uhm-what-to-eat/badge.svg)
 
 
 
